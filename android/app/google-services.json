@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187122969395",
+    "firebase_url": "https://marka-multistore-default-rtdb.firebaseio.com",
+    "project_id": "marka-multistore",
+    "storage_bucket": "marka-multistore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187122969395:android:c6506600cb34d888256c46",
+        "android_client_info": {
+          "package_name": "com.markafamous.macstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187122969395-kgk0p7mi5iahom9l34ia1ioei5kt3p90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markafamous.macstore",
+            "certificate_hash": "0946d414ed47da053ff8e48527e143173471e9c0"
+          }
+        },
+        {
+          "client_id": "187122969395-9nulbc5iiqaq6lqpnpgvv422lkq8jolf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QcdSe_5MrFI0kRgi_eQ3QjtbVA9uqRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187122969395-9nulbc5iiqaq6lqpnpgvv422lkq8jolf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
